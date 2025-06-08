@@ -47,4 +47,4 @@ cd smart-lead-finder
 
 ### Run 
 ```
-  streamlit run app.py
+streamlit run app.py
