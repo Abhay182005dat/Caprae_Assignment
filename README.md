@@ -43,3 +43,8 @@ Example:
 ```bash
 git clone https://github.com/yourusername/smart-lead-finder.git
 cd smart-lead-finder
+```
+
+### Run 
+```
+  streamlit run app.py
