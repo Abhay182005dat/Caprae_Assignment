@@ -28,6 +28,12 @@ Example:
 
 ---
 
+### Images 
+![Image1](https://github.com/Abhay182005dat/Caprae_Assignment/blob/main/images/Screenshot%202025-06-08%20232051.png)
+![Image2](https://github.com/Abhay182005dat/Caprae_Assignment/blob/main/images/Screenshot%202025-06-08%20232342.png)
+
+
+
 ## 🚀 Getting Started
 
 ### 📌 Prerequisites
